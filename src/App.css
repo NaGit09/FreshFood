@@ -1,0 +1,10 @@
+
+*:root  {
+    --primary : #FEC54B;
+    --primaryHover : #ffb71b;
+}
+.absolute_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
